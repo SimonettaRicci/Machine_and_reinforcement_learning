@@ -10,6 +10,7 @@ L’obiettivo del progetto è modellare il gioco come un problema di **Reinforce
 ## Il gioco
 
 Questa variante estesa del classico *Sasso, Carta, Forbice* introduce due ulteriori azioni: **Lizard** e **Spock**, rendendo la dinamica più complessa.
+
 <img src="images/game.png" width="300">
 
 ### Regole di vittoria:
@@ -67,8 +68,8 @@ Il progetto analizza:
 - Convergenza delle stime verso il valore atteso teorico
 - Efficienza esplorazione vs sfruttamento
 
-<img src="images/mixed.png" width="500">
-<img src="images/qfunction.png" width="500">
+<img src="images/mixed.png" width="800">
+<img src="images/qfunction.png" width="800">
 
 ---
 
