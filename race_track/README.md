@@ -22,7 +22,7 @@ L’agente apprende a bilanciare accelerazione e frenata per ottimizzare il temp
   - posizione: (x, y)
   - velocità: (vₓ, vᵧ)
  
-<img src="images/map.png" width="600">
+<img src="images/map.png" width="300">
 
 - **Azioni (A)**:
   - variazione velocità: {-1, 0, +1} su entrambe le direzioni  
