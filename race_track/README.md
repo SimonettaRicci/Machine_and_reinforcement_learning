@@ -82,14 +82,15 @@ I grafici evidenziano:
 - convergenza della funzione valore
 - miglioramento progressivo delle traiettorie
 
-<img src="images/trajectory.png" width="900">
+<img src="images/trajectory.png" width="800">
 
 ---
 
 ## Conclusioni
 
 Il problema dimostra l’efficacia delle tecniche di **Monte Carlo Reinforcement Learning** nella pianificazione di traiettorie in ambienti dinamici con vincoli fisici.
-<img src="images/color.png" width="900">
+
+<img src="images/color.png" width="800">
 ---
 
 ## Autore
